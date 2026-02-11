@@ -1,4 +1,7 @@
 # SALES ANALYSIS OF A COFFEE SHOP - SQL PROJECT
+
+<img width="1024" height="1536" alt="fd2bee46-dd98-435f-a1f0-aaad23b620b7" src="https://github.com/user-attachments/assets/14bd1d8c-1618-4ead-b56a-48b992f0ba68" />
+
 ### Project Overview
 The project aimed to summarise the sales data of a coffee shop: Monday Coffee. They have been selling their products online since January 2023, they now want to open new stores in three cities of india, to determine which cities, an EDA was done on their data based on consumer demand and sales performance.
 
